@@ -1,0 +1,30 @@
+/* Note: CSS is top-down approach model */
+* {
+    font-family: monospace;
+}
+body {
+  font-size: 22px;
+}
+p {
+  color: #800080;
+}
+
+h1, h2 {
+  color: blue;
+}
+.gray {
+  color: gray;
+}
+
+.green {
+  color: green;
+}
+
+#second {
+  font-style: italic;
+}
+
+p span{
+    background-color: gold;
+    text-transform: uppercase;
+}
